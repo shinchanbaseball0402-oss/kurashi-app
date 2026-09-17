@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#5C7A52"/>
+
+  <!-- house -->
+  <path d="M256 146 L368 234 V 328 a12 12 0 0 1 -12 12 H 156 a12 12 0 0 1 -12 -12 V 234 Z"
+        fill="#F4F3EF"/>
+  <path d="M234 340 V 276 a10 10 0 0 1 10 -10 h24 a10 10 0 0 1 10 10 V 340 Z" fill="#5C7A52"/>
+
+  <!-- five dots representing the five tools -->
+  <circle cx="176" cy="384" r="14" fill="#D9A441"/>
+  <circle cx="216" cy="384" r="14" fill="#2F8F5B"/>
+  <circle cx="256" cy="384" r="14" fill="#C1432B"/>
+  <circle cx="296" cy="384" r="14" fill="#4A3B78"/>
+  <circle cx="336" cy="384" r="14" fill="#F2C230"/>
+</svg>
